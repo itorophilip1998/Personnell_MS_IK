@@ -1,0 +1,26 @@
+**Contact IDARA UDOFIA for more Software projects!**
+
+**Facebook: Aidy Sax**
+
+**WhatsApp: 07040297320**
+
+**Business Line: 09029440704**
+
+
+
+
+**Database Name: employeeigniter**
+
+**Developed by IDARA UDOFIA**
+
+**Recommended PHP Version 7.4.26 and Newer**
+
+**Admin Login Details**
+
+Username: admin
+Password: password0101
+
+**Employee Login Details**
+
+Email	: liam@gmail.com
+Password: 7410233333
