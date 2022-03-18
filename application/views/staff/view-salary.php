@@ -61,9 +61,9 @@
                   ?>
                       <tr>
                         <td><?php echo $i; ?></td>
-                        <td>$<?php echo $cnt['basic_salary']; ?></td>
-                        <td>$<?php echo $cnt['allowance']; ?></td>
-                        <td>$<?php echo $cnt['total']; ?></td>
+                        <td><?php echo $cnt['basic_salary']; ?></td>
+                        <td><?php echo $cnt['allowance']; ?></td>
+                        <td><?php echo $cnt['total']; ?></td>
                         <td><?php echo date('Y-m-d', strtotime($cnt['added_on'])); ?></td>
                         <td><a href="<?php echo base_url(); ?>salaryinvoice/<?php echo $cnt['id']; ?>" class="btn btn-success">Invoice</a></td>
                       </tr>
